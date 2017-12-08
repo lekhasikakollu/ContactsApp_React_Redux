@@ -1,0 +1,94 @@
+{
+  "contactList": [
+    {
+      "fname": "Klaus",
+      "lname": "Huitson",
+      "email": "khuitson5@arizona.edu",
+      "phone": "203-902-0309",
+      "wphone": "404-159-3476",
+      "addr1": "123 Kipling Avenue",
+      "addr2": "4439 Homewood Lane",
+      "name": "New Haven",
+      "selectState": "Select State",
+      "gender" : "male",
+      "zip": "06510",
+      "textArea": "Vivamus tortor.",
+      "Telugu": "Telugu",
+      "English": "English",
+      "Hindi": "Hindi",
+      "Tamil": "Tamil",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "fname": "Evey",
+      "lname": "Dewire",
+      "email": "edewire6@who.int",
+      "phone": "605-179-1700",
+      "wphone": "512-483-2634",
+      "addr1": "88 Armistice Way",
+      "addr2": "92 Jay Crossing",
+      "gender": "Female",
+      "state": "SD",
+      "city": "Sioux Falls",
+      "zip": "57105",
+      "textArea":
+        "Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+    },
+    {
+      "fname": "Jami",
+      "lname": "Margetson",
+      "email": "jmargetson7@t.co",
+      "phone": "925-610-6492",
+      "wphone": "234-748-3059",
+      "addr1": "047 Hanson Avenue",
+      "addr2": "9896 Haas Drive",
+      "city": "Concord",
+      "id": "8",
+      "state": "CA",
+      "gender": "Female",
+      "zip": "94522",
+      "textArea":
+        "Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat.",
+      "lang": "English"
+    },
+    {
+      "id": 9,
+      "fname": "Lauryn",
+      "lname": "Salters",
+      "email": "lsalters8@dagondesign.com",
+      "phone": "813-756-3113",
+      "wphone": "559-424-3640",
+      "addr1": "6 Ilene Park",
+      "addr2": "3454 Ruskin Way",
+      "gender": "Female",
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33686",
+      "textArea":
+        "Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis.",
+      "lang": "English Tamil"
+    },
+    {
+      "fname": "Frederic",
+      "lname": "Stood",
+      "email": "fstood1@youku.com",
+      "phone": "786-582-3352",
+      "wphone": "202-467-2989",
+      "addr1": "93562 Mesta Avenue",
+      "addr2": "30888 Express Street",
+      "name": "Miami",
+      "selectState": "Select State",
+      "Male": "Male",
+      "Female": "Female",
+      "zip": "33158",
+      "textArea":
+        "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",
+      "Telugu": "Telugu",
+      "English": "English",
+      "Hindi": "Hindi",
+      "Tamil": "Tamil",
+      "id": 12
+    }
+  ]
+}
